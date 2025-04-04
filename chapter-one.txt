@@ -8,3 +8,7 @@ Education is the key to unlocking a better future. It empowers individuals with 
 In the classroom, students not only learn academic subjects but also develop critical thinking, creativity, and communication skills. These abilities help them grow into responsible and productive members of society.
 
 A good education system builds strong communities and drives national progress. That’s why investing in education is one of the most powerful ways to shape a brighter tomorrow.
+=======
+Chapter 1 awakens—a doorway to Git’s world.
+We’ll wander the paths of version control, tracing the heartbeat of code’s history.
+Begin here: where repositories breathe and commits take root, the first seeds of collaboration.
