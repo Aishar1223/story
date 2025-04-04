@@ -1,3 +1,3 @@
-Learning is fun.
-
-Education is the key to success.
+Chapter 1 awakens—a doorway to Git’s world.
+We’ll wander the paths of version control, tracing the heartbeat of code’s history.
+Begin here: where repositories breathe and commits take root, the first seeds of collaboration.
